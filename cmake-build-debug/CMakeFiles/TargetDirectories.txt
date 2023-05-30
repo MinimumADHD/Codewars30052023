@@ -1,0 +1,3 @@
+/home/delta/CLionProjects/WindowsCryptical/cmake-build-debug/CMakeFiles/WindowsCryptical.dir
+/home/delta/CLionProjects/WindowsCryptical/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/delta/CLionProjects/WindowsCryptical/cmake-build-debug/CMakeFiles/rebuild_cache.dir

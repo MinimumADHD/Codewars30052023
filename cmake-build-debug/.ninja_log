@@ -1,0 +1,4 @@
+# ninja log v5
+0	13	1685470635959623438	build.ninja	b3080f3742857a66
+199	219	0	WindowsCryptical	947c2eeb06301313
+1	199	1685470489197963574	CMakeFiles/WindowsCryptical.dir/main.cpp.o	3470eb0039ddeada
