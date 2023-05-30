@@ -27,7 +27,7 @@ int findSmallest(vector<int> list) {
 
 // ALTERNATIVELY
 
-int findSmallestAlt(const std::vector<int>& list)
+int findSmallestAlt(vector<int>& list)
 {
     return *min_element(list.begin(), list.end());
 }
